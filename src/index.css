@@ -48,6 +48,7 @@
 }
 .navbar a:hover {
   color: #000;
+  cursor: pointer;
   background-color: rgb(255, 94, 0);
   border-radius: 20px;
 }
@@ -111,6 +112,7 @@
 }
 
 .card:hover {
+  cursor: pointer;
   border: 1px solid rgb(255, 94, 0);
   box-shadow: 3px 3px 10px rgba(100, 44, 6), -3px -3px 10px rgba(100, 44, 6);
 }

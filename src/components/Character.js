@@ -2,7 +2,7 @@ import React from 'react'
 
 const Character = ({ char }) => {
     return (
-          <div className="card" key={char.id}>
+          <div className="card">
             <h3 className="name">{char.fields.Name.toUpperCase()}</h3>
             <p className="tribe">Tribe: {char.fields["Name (from Tribe)"]}</p>
             <div className="img-div">
