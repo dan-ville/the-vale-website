@@ -12,7 +12,7 @@ const Summary = () => {
           <p>
             They acquired great powers to turn into dark monsters and wage war
             on the other tribes. To survive, the tribes allied themselves with
-            the the Ancients, beast spirits from whom originated all animal
+            the Ancients, beast spirits from whom originated all animal
             life.
           </p>
           <p>
